@@ -56,7 +56,6 @@
 ## Lines of code should not be greater than 80 characters
 
 - Avoid getting lose while reading code
-- Avoid code getting wrap in wierd positions
 - The best place to break a line is when "," or "." is presented
 
 ## Don't create variables, if you're not going to save values in them
