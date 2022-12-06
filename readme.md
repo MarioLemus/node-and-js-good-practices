@@ -17,9 +17,9 @@
 
 ### order
 
--1 variables
--2 functions
--3 loops
+- 1 variables
+- 2 functions
+- 3 loops
 
 ## Always initializate variables to avoid UNDEFINED values, and know what datatype expects
 
