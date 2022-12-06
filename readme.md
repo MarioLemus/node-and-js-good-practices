@@ -8,8 +8,8 @@
 
 ### How to separate the files and what to add in them
 
-- app.js -> everything related with your api (middlewares, routes)
-- server.js -> everything related with the networks (hostname, ports, etc)
+- app.js > everything related with your api (middlewares, routes)
+- server.js > everything related with the networks (hostname, ports, etc)
 
 #### =============== JS PRACTICES ========================
 
