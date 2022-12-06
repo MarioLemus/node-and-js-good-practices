@@ -21,18 +21,44 @@
 - 2 functions
 - 3 loops
 
-## Always initializate variables to avoid UNDEFINED values, and know what datatype expects
+## Always initializate variables
+
+- Help to avoid undefined values
+- Get to know the datatype expected
 
 ## Declare objects and arrays with CONST
 
+- Avoid overwriting them
+
 ## Don't use any primitive datatype's class declaration
 
-## Use parameter defaults, because IF YOU DON'T USE IT. IT CAN BREAK OUR CODE DUE TO IT RETURNING UNDEFINED
+- Is generally a bad practice
+
+## Use parameter defaults
+
+- Can break your code, because it can return undefined
+- Get to know the datatype expected
 
 ## Avoid eval()
 
-## If objects are placed in the same line, PROPERTIES AND VALUES SHOULD BE COMPRESSED TOGETHER, AND A SPACE HAS TO BE PLACED BETWEEN PAIRS PROP. VALUE
+- Not used normally, but can cause security problems
 
-## Lines should not be greater than 80 characters, the best place to break a line is when "," or "." is presented
+## If objects are written in the same line
+
+- Its properties and values should be compressed together
+- A space has to be placed between pairs of properties and values
+
+```JavaScript
+
+  const car = {model:"corolla", brand:"toyota"}
+```
+
+## Lines of code should not be greater than 80 characters
+
+- Avoid getting lose while reading code
+- Avoid code getting wrap in wierd positions
+- The best place to break a line is when "," or "." is presented
 
 ## Don't create variables, IF YOUR NOT GOING TO SAVE VALUES IN IT
+
+- Avoid using memory inecesarilly
